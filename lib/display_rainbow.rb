@@ -10,4 +10,4 @@ end
 
 colors = ["R:", "O:", "Y:", "G:", "B:", "I:", "V:"]
 
-display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+
